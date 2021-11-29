@@ -5,12 +5,35 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+{% if "a" == "a" %}
+  XXX
+{% endif %}
+
+{% assign files = "https://cuiyingzhe.github.io/files" %}
+
+## In Progress
+
+
+***
+## Peer-reviewed
+ 
+[2022](#2022) &nbsp;
+
+
+### 2022
+
+
+***
+
+## Gray Literature
+
+
+
+
+<!---
+## In-prep or submitted
+
+
+-->
