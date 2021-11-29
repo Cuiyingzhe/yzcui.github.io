@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 {% if "a" == "a" %}
-  XXX
+  Publications.
 {% endif %}
 
 {% assign files = "https://cuiyingzhe.github.io/files" %}
@@ -26,10 +26,6 @@ author_profile: true
 
 
 ***
-
-## Gray Literature
-
-
 
 
 <!---
