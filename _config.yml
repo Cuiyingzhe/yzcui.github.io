@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yingzhe Cui"
   avatar           : "profile.png"
-  bio              : ""
+  bio              : 
   location         : "Qingdao, China"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : 
+  googlescholar    : 
   email            : "cuiyingzhe@stu.ouc.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Yingzhe-Cui"
   uri              :
