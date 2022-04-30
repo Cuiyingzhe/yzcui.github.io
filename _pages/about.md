@@ -9,4 +9,4 @@ redirect_from:
 ---
 About
 ======
-I am currently a MS candidate working with Prof. [Lixin Wu](http://lwu.qnlm.ac) at Ocean University of China.
+I am currently a postgraduate advised by Prof. [Lixin Wu](http://lwu.qnlm.ac) at Ocean University of China.
